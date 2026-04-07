@@ -1,0 +1,8 @@
+sqlalchemy>=1.4.20
+psycopg2-binary>=2.9.2
+create_engine>=1.1.0
+pandas>=0.25.1
+numpy>=1.18.0
+matplotlib>=2.2.3
+seaborn>=0.11.1
+phik>=0.12.5
